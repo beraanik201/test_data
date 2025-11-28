@@ -1,0 +1,309 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "name": "BBQ House",
+              "cuisines": ["BBQ", "American", "Grill"],
+              "costForTwoMessage": "₹750 for two",
+              "avgRating": 4.6,
+              "sla": {
+                "deliveryTime": 28
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "🔥 Pitmaster's Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "101",
+                              "name": "Texas Smoked Brisket",
+                              "description": "Slow-smoked Angus brisket with house rub.",
+                              "price": 55000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "102",
+                              "name": "BBQ Burnt Ends",
+                              "description": "Crispy caramelized brisket ends tossed in signature BBQ sauce.",
+                              "price": 42000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "103",
+                              "name": "Pulled Pork Platter",
+                              "description": "12-hour smoked pork shoulder, perfectly shredded.",
+                              "price": 38000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "🥓 BBQ Starters",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "201",
+                              "name": "Smoked Wings",
+                              "description": "Applewood smoked chicken wings tossed in spicy BBQ glaze.",
+                              "price": 26000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "202",
+                              "name": "BBQ Chicken Pops",
+                              "description": "Crispy fried chicken tossed in smoky BBQ sauce.",
+                              "price": 22000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "🍖 Signature BBQ Platters",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "301",
+                              "name": "Classic Meat Platter",
+                              "description": "Brisket, pulled pork, smoked chicken, and sausages.",
+                              "price": 72000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "302",
+                              "name": "Ribs & Brisket Combo",
+                              "description": "Full rack of pork ribs with tender brisket slices.",
+                              "price": 68000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "303",
+                              "name": "Family Feast (Serves 4)",
+                              "description": "Brisket, ribs, wings, sausages, cornbread & slaw.",
+                              "price": 125000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "🍕 Specialty Pizzas",
+                      "categories": [
+                        {
+                          "title": "BBQ Pizzas",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "401",
+                                  "name": "BBQ Chicken Pizza",
+                                  "description": "Smoked chicken, onions, mozzarella on BBQ base.",
+                                  "price": 32000
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Classic Pizzas",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "402",
+                                  "name": "Margherita Pizza",
+                                  "description": "Classic cheese & tomato with basil.",
+                                  "price": 28000
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "🍔 Burgers & Sandwiches",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "501",
+                              "name": "Smoked Brisket Burger",
+                              "description": "Stacked brisket, cheddar & pickles in a toasted bun.",
+                              "price": 35000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "502",
+                              "name": "Pulled Pork Sandwich",
+                              "description": "House BBQ pulled pork with slaw & brioche bun.",
+                              "price": 29000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "503",
+                              "name": "Classic Cheeseburger",
+                              "description": "Beef patty, cheese, lettuce, tomato.",
+                              "price": 26000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "🍟 Sides",
+                      "categories": [
+                        {
+                          "title": "BBQ Sides",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "601",
+                                  "name": "Cornbread",
+                                  "description": "Sweet and buttery classic BBQ side.",
+                                  "price": 9000
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "602",
+                                  "name": "Creamy Coleslaw",
+                                  "description": "Fresh cabbage slaw with mayo dressing.",
+                                  "price": 7000
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Fries & More",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "603",
+                                  "name": "Loaded Fries",
+                                  "description": "Melted cheese, jalapeño, BBQ sauce.",
+                                  "price": 15000
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "🍰 Desserts",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "701",
+                              "name": "Chocolate Brownie",
+                              "description": "Rich chocolate brownie.",
+                              "price": 12000
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "702",
+                              "name": "Banana Pudding",
+                              "description": "Creamy southern-style classic.",
+                              "price": 11000
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
