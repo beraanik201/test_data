@@ -1,0 +1,605 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "id": "restaurant_grid_listing",
+            "gridElements": {
+              "infoWithStyle": {
+                "restaurants": [
+                  {
+                    "info": {
+                      "id": "114115",
+                      "name": "Cafe Nova",
+                      "cloudinaryImageId": "mock_image_154848",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "661 for two",
+                      "cuisines": [
+                        "Indian",
+                        "Chinese"
+                      ],
+                      "avgRating": 3.9,
+                      "veg": false,
+                      "parentId": "215778",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 32,
+                        "lastMileTravel": 4.739780628438112,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "882501",
+                      "name": "Bite House",
+                      "cloudinaryImageId": "mock_image_920739",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "265 for two",
+                      "cuisines": [
+                        "North Indian",
+                        "Snacks"
+                      ],
+                      "avgRating": 4.2,
+                      "veg": false,
+                      "parentId": "437200",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 41,
+                        "lastMileTravel": 3.6082636133069,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "512925",
+                      "name": "Crave Corner",
+                      "cloudinaryImageId": "mock_image_109074",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "399 for two",
+                      "cuisines": [
+                        "Healthy Food"
+                      ],
+                      "avgRating": 4.0,
+                      "veg": false,
+                      "parentId": "711607",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 37,
+                        "lastMileTravel": 0.9575543973953373,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "399353",
+                      "name": "Taste Haven",
+                      "cloudinaryImageId": "mock_image_182526",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "390 for two",
+                      "cuisines": [
+                        "North Indian",
+                        "Snacks"
+                      ],
+                      "avgRating": 3.6,
+                      "veg": false,
+                      "parentId": "532103",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 25,
+                        "lastMileTravel": 1.98119137142405,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "829355",
+                      "name": "Desi Delight",
+                      "cloudinaryImageId": "mock_image_216718",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "614 for two",
+                      "cuisines": [
+                        "Indian"
+                      ],
+                      "avgRating": 4.5,
+                      "veg": false,
+                      "parentId": "394361",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 33,
+                        "lastMileTravel": 1.8724546795801453,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "737577",
+                      "name": "KFC",
+                      "cloudinaryImageId": "mock_image_686308",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "517 for two",
+                      "cuisines": [
+                        "Healthy Food"
+                      ],
+                      "avgRating": 4.2,
+                      "veg": false,
+                      "parentId": "636017",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 42,
+                        "lastMileTravel": 3.319649593212659,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "702112",
+                      "name": "Golden Spoon",
+                      "cloudinaryImageId": "mock_image_197709",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "242 for two",
+                      "cuisines": [
+                        "Continental"
+                      ],
+                      "avgRating": 4.5,
+                      "veg": false,
+                      "parentId": "610797",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 24,
+                        "lastMileTravel": 2.48064986831774,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "696069",
+                      "name": "Swarma House",
+                      "cloudinaryImageId": "mock_image_507774",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "585 for two",
+                      "cuisines": [
+                        "North Indian",
+                        "Snacks"
+                      ],
+                      "avgRating": 4.2,
+                      "veg": false,
+                      "parentId": "248068",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 27,
+                        "lastMileTravel": 0.5040476780160319,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "437980",
+                      "name": "Bite House",
+                      "cloudinaryImageId": "mock_image_104663",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "530 for two",
+                      "cuisines": [
+                        "Bakery"
+                      ],
+                      "avgRating": 4.7,
+                      "veg": false,
+                      "parentId": "622981",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 39,
+                        "lastMileTravel": 1.2930552442789842,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "967956",
+                      "name": "Fresh Feast",
+                      "cloudinaryImageId": "mock_image_613102",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "440 for two",
+                      "cuisines": [
+                        "Healthy Food"
+                      ],
+                      "avgRating": 3.6,
+                      "veg": false,
+                      "parentId": "376784",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 29,
+                        "lastMileTravel": 1.4193049526999255,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "254620",
+                      "name": "Midnight Munch",
+                      "cloudinaryImageId": "mock_image_959852",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "380 for two",
+                      "cuisines": [
+                        "Indian",
+                        "Chinese"
+                      ],
+                      "avgRating": 3.9,
+                      "veg": false,
+                      "parentId": "721703",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 24,
+                        "lastMileTravel": 4.5189801532366864,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "783787",
+                      "name": "Urban Bites",
+                      "cloudinaryImageId": "mock_image_889197",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "228 for two",
+                      "cuisines": [
+                        "North Indian",
+                        "Snacks"
+                      ],
+                      "avgRating": 4.6,
+                      "veg": false,
+                      "parentId": "664819",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 44,
+                        "lastMileTravel": 4.794273954205686,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "122232",
+                      "name": "Masala Magic",
+                      "cloudinaryImageId": "mock_image_943589",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "459 for two",
+                      "cuisines": [
+                        "Italian"
+                      ],
+                      "avgRating": 4.6,
+                      "veg": false,
+                      "parentId": "980773",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 42,
+                        "lastMileTravel": 0.8650249152776611,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "862034",
+                      "name": "Kitchen Street",
+                      "cloudinaryImageId": "mock_image_455595",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "448 for two",
+                      "cuisines": [
+                        "Italian"
+                      ],
+                      "avgRating": 4.4,
+                      "veg": false,
+                      "parentId": "861049",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 34,
+                        "lastMileTravel": 1.9395752349642974,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "452709",
+                      "name": "Fork & Spoon",
+                      "cloudinaryImageId": "mock_image_919615",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "681 for two",
+                      "cuisines": [
+                        "Bakery"
+                      ],
+                      "avgRating": 4.0,
+                      "veg": false,
+                      "parentId": "218548",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 30,
+                        "lastMileTravel": 1.1836610352744945,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "448934",
+                      "name": "Spice Villa",
+                      "cloudinaryImageId": "mock_image_891705",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "285 for two",
+                      "cuisines": [
+                        "Asian"
+                      ],
+                      "avgRating": 4.7,
+                      "veg": false,
+                      "parentId": "344232",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 27,
+                        "lastMileTravel": 2.60536251000766,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "544468",
+                      "name": "Spice Villa",
+                      "cloudinaryImageId": "mock_image_375325",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "485 for two",
+                      "cuisines": [
+                        "Indian"
+                      ],
+                      "avgRating": 4.8,
+                      "veg": false,
+                      "parentId": "926241",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 27,
+                        "lastMileTravel": 1.8490937024781462,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "370494",
+                      "name": "Spice Villa",
+                      "cloudinaryImageId": "mock_image_320480",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "405 for two",
+                      "cuisines": [
+                        "Continental"
+                      ],
+                      "avgRating": 4.9,
+                      "veg": false,
+                      "parentId": "273989",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 31,
+                        "lastMileTravel": 2.375937088203714,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "420140",
+                      "name": "Dragon Flame",
+                      "cloudinaryImageId": "mock_image_909289",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "230 for two",
+                      "cuisines": [
+                        "Indian"
+                      ],
+                      "avgRating": 4.8,
+                      "veg": false,
+                      "parentId": "573923",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 36,
+                        "lastMileTravel": 2.7440739529126836,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "418734",
+                      "name": "Kitchen Street",
+                      "cloudinaryImageId": "mock_image_911588",
+                      "locality": "Mock Area",
+                      "areaName": "Mock Zone",
+                      "costForTwo": "481 for two",
+                      "cuisines": [
+                        "Continental"
+                      ],
+                      "avgRating": 4.5,
+                      "veg": false,
+                      "parentId": "675012",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 28,
+                        "lastMileTravel": 4.109553432772987,
+                        "slaString": "30-40 mins",
+                        "lastMileTravelString": "2 km"
+                      },
+                      "availability": {
+                        "opened": true
+                      },
+                      "isOpen": true,
+                      "type": "F"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}
