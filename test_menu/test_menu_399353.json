@@ -1,0 +1,204 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "name": "Taste Haven",
+              "cuisines": [
+                "Taste"
+              ],
+              "costForTwoMessage": "390 for two",
+              "avgRating": 3.6,
+              "sla": {
+                "deliveryTime": 25
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Pitmaster's Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "8468819",
+                              "name": "BBQ Burnt Ends",
+                              "description": "Crispy caramelized brisket ends in signature sauce.",
+                              "price": 4950
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2939563",
+                              "name": "BBQ Burnt Ends (Combo)",
+                              "description": "Crispy caramelized brisket ends in signature sauce.",
+                              "price": 1920
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "8581422",
+                              "name": "BBQ Burnt Ends (With Sides)",
+                              "description": "Crispy caramelized brisket ends in signature sauce.",
+                              "price": 6870
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5956360",
+                              "name": "Texas Smoked Brisket (With Sides)",
+                              "description": "Slow-smoked Angus brisket with house rub.",
+                              "price": 1930
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "9465935",
+                              "name": "BBQ Burnt Ends (Large)",
+                              "description": "Crispy caramelized brisket ends in signature sauce.",
+                              "price": 6100
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "6207356",
+                              "name": "Texas Smoked Brisket (Combo)",
+                              "description": "Slow-smoked Angus brisket with house rub.",
+                              "price": 7270
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "BBQ Starters",
+                      "categories": [
+                        {
+                          "title": "BBQ Starters - Part 1",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "9850755",
+                                  "name": "Smoked Wings (With Sides)",
+                                  "description": "Applewood smoked wings with spicy glaze.",
+                                  "price": 3690
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "2677410",
+                                  "name": "Smoked Wings",
+                                  "description": "Applewood smoked wings with spicy glaze.",
+                                  "price": 6060
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "8967466",
+                                  "name": "BBQ Chicken Pops (With Sides)",
+                                  "description": "Crispy chicken in smoky barbecue sauce.",
+                                  "price": 5680
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "3920118",
+                                  "name": "Smoked Wings (Combo)",
+                                  "description": "Applewood smoked wings with spicy glaze.",
+                                  "price": 2400
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "BBQ Starters - Part 2",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "6883867",
+                                  "name": "BBQ Chicken Pops",
+                                  "description": "Crispy chicken in smoky barbecue sauce.",
+                                  "price": 8290
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "9825235",
+                                  "name": "Smoked Wings (Large)",
+                                  "description": "Applewood smoked wings with spicy glaze.",
+                                  "price": 8790
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "8523839",
+                                  "name": "BBQ Chicken Pops (Large)",
+                                  "description": "Crispy chicken in smoky barbecue sauce.",
+                                  "price": 4680
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "4390922",
+                                  "name": "BBQ Chicken Pops (Combo)",
+                                  "description": "Crispy chicken in smoky barbecue sauce.",
+                                  "price": 3670
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

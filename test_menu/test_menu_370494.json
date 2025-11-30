@@ -1,0 +1,174 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "name": "Gramercy Tavern",
+              "cuisines": [
+                "Gramercy"
+              ],
+              "costForTwoMessage": "405 for two",
+              "avgRating": 4.9,
+              "sla": {
+                "deliveryTime": 31
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Pitmaster's Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3025885",
+                              "name": "Texas Smoked Brisket",
+                              "description": "Slow-smoked Angus brisket with house rub.",
+                              "price": 1280
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2912837",
+                              "name": "Texas Smoked Brisket (Large)",
+                              "description": "Slow-smoked Angus brisket with house rub.",
+                              "price": 1700
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3229599",
+                              "name": "Texas Smoked Brisket (Combo)",
+                              "description": "Slow-smoked Angus brisket with house rub.",
+                              "price": 8470
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "7862616",
+                              "name": "BBQ Burnt Ends (With Sides)",
+                              "description": "Crispy caramelized brisket ends in signature sauce.",
+                              "price": 2890
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "4164760",
+                              "name": "BBQ Burnt Ends (Large)",
+                              "description": "Crispy caramelized brisket ends in signature sauce.",
+                              "price": 4790
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3681949",
+                              "name": "Texas Smoked Brisket (With Sides)",
+                              "description": "Slow-smoked Angus brisket with house rub.",
+                              "price": 4300
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "BBQ Starters",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5177538",
+                              "name": "Smoked Wings (Large)",
+                              "description": "Applewood smoked wings with spicy glaze.",
+                              "price": 1610
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5965505",
+                              "name": "BBQ Chicken Pops (Combo)",
+                              "description": "Crispy chicken in smoky barbecue sauce.",
+                              "price": 8100
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3476846",
+                              "name": "Smoked Wings (Combo)",
+                              "description": "Applewood smoked wings with spicy glaze.",
+                              "price": 6630
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5985869",
+                              "name": "Smoked Wings",
+                              "description": "Applewood smoked wings with spicy glaze.",
+                              "price": 6680
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3525682",
+                              "name": "BBQ Chicken Pops (Large)",
+                              "description": "Crispy chicken in smoky barbecue sauce.",
+                              "price": 6820
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "6558525",
+                              "name": "BBQ Chicken Pops (With Sides)",
+                              "description": "Crispy chicken in smoky barbecue sauce.",
+                              "price": 5310
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

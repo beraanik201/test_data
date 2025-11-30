@@ -1,0 +1,104 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "name": "Commander's Palace",
+              "cuisines": [
+                "Commander's"
+              ],
+              "costForTwoMessage": "530 for two",
+              "avgRating": 4.7,
+              "sla": {
+                "deliveryTime": 39
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Bakery Classics",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1164363",
+                              "name": "Chocolate Croissant (Large)",
+                              "description": "Flaky pastry with chocolate.",
+                              "price": 7260
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2052333",
+                              "name": "Sourdough Loaf (Combo)",
+                              "description": "Freshly baked sourdough.",
+                              "price": 7730
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3840175",
+                              "name": "Sourdough Loaf",
+                              "description": "Freshly baked sourdough.",
+                              "price": 4730
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "6777944",
+                              "name": "Chocolate Croissant (With Sides)",
+                              "description": "Flaky pastry with chocolate.",
+                              "price": 7810
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "9718514",
+                              "name": "Chocolate Croissant (Combo)",
+                              "description": "Flaky pastry with chocolate.",
+                              "price": 8550
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "7536071",
+                              "name": "Sourdough Loaf (Large)",
+                              "description": "Freshly baked sourdough.",
+                              "price": 6210
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

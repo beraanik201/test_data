@@ -1,0 +1,104 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "name": "Masala Magic",
+              "cuisines": [
+                "Masala"
+              ],
+              "costForTwoMessage": "459 for two",
+              "avgRating": 4.6,
+              "sla": {
+                "deliveryTime": 42
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Starters",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2043055",
+                              "name": "Paneer Tikka",
+                              "description": "Marinated paneer grilled in tandoor.",
+                              "price": 2870
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3305782",
+                              "name": "Samosa (Combo)",
+                              "description": "Crispy pastry stuffed with spiced potatoes.",
+                              "price": 6590
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5663106",
+                              "name": "Samosa (With Sides)",
+                              "description": "Crispy pastry stuffed with spiced potatoes.",
+                              "price": 1300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "7250134",
+                              "name": "Paneer Tikka (With Sides)",
+                              "description": "Marinated paneer grilled in tandoor.",
+                              "price": 7590
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "6040676",
+                              "name": "Paneer Tikka (Combo)",
+                              "description": "Marinated paneer grilled in tandoor.",
+                              "price": 6310
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "4304911",
+                              "name": "Samosa (Large)",
+                              "description": "Crispy pastry stuffed with spiced potatoes.",
+                              "price": 2620
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

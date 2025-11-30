@@ -1,0 +1,104 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "name": "Crave Corner",
+              "cuisines": [
+                "Crave"
+              ],
+              "costForTwoMessage": "399 for two",
+              "avgRating": 4.0,
+              "sla": {
+                "deliveryTime": 37
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Bowls & Salads",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "9384883",
+                              "name": "Grilled Chicken Salad (Large)",
+                              "description": "Greens with grilled chicken & vinaigrette.",
+                              "price": 7380
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2643487",
+                              "name": "Grilled Chicken Salad (Combo)",
+                              "description": "Greens with grilled chicken & vinaigrette.",
+                              "price": 6710
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5428665",
+                              "name": "Quinoa Bowl (With Sides)",
+                              "description": "Quinoa, roasted veggies & tahini.",
+                              "price": 1210
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "4123595",
+                              "name": "Quinoa Bowl (Combo)",
+                              "description": "Quinoa, roasted veggies & tahini.",
+                              "price": 2360
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "4407397",
+                              "name": "Quinoa Bowl (Large)",
+                              "description": "Quinoa, roasted veggies & tahini.",
+                              "price": 4370
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "7100661",
+                              "name": "Grilled Chicken Salad (With Sides)",
+                              "description": "Greens with grilled chicken & vinaigrette.",
+                              "price": 6680
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "name": "Pat LaFrieda Meats",
+              "cuisines": [
+                "Pat"
+              ],
+              "costForTwoMessage": "380 for two",
+              "avgRating": 3.9,
+              "sla": {
+                "deliveryTime": 24
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Butcher's Choice",
+                      "categories": [
+                        {
+                          "title": "Butcher's Choice - Part 1",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "6292792",
+                                  "name": "Wagyu Skirt Steak (Combo)",
+                                  "description": "Tender wagyu skirt steak.",
+                                  "price": 3920
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "1801129",
+                                  "name": "Wagyu Skirt Steak",
+                                  "description": "Tender wagyu skirt steak.",
+                                  "price": 7370
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "9708277",
+                                  "name": "Dry-Aged Ribeye",
+                                  "description": "Premium dry-aged ribeye steak.",
+                                  "price": 8840
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "8011986",
+                                  "name": "Wagyu Skirt Steak (Large)",
+                                  "description": "Tender wagyu skirt steak.",
+                                  "price": 4970
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Butcher's Choice - Part 2",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "7873092",
+                                  "name": "Wagyu Skirt Steak (With Sides)",
+                                  "description": "Tender wagyu skirt steak.",
+                                  "price": 1600
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "6272833",
+                                  "name": "Dry-Aged Ribeye (Large)",
+                                  "description": "Premium dry-aged ribeye steak.",
+                                  "price": 7000
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "8074576",
+                                  "name": "Dry-Aged Ribeye (With Sides)",
+                                  "description": "Premium dry-aged ribeye steak.",
+                                  "price": 4280
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": "1569731",
+                                  "name": "Dry-Aged Ribeye (Combo)",
+                                  "description": "Premium dry-aged ribeye steak.",
+                                  "price": 5350
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

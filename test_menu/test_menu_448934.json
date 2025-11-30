@@ -1,0 +1,104 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "name": "Spice Villa",
+              "cuisines": [
+                "Spice"
+              ],
+              "costForTwoMessage": "285 for two",
+              "avgRating": 4.7,
+              "sla": {
+                "deliveryTime": 27
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Asian Starters",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "8549834",
+                              "name": "Chicken Satay",
+                              "description": "Grilled chicken skewers with peanut sauce.",
+                              "price": 3180
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1644352",
+                              "name": "Chicken Satay (With Sides)",
+                              "description": "Grilled chicken skewers with peanut sauce.",
+                              "price": 5300
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "9731198",
+                              "name": "Chicken Satay (Large)",
+                              "description": "Grilled chicken skewers with peanut sauce.",
+                              "price": 6900
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2047001",
+                              "name": "Spring Rolls",
+                              "description": "Crispy veg spring rolls.",
+                              "price": 2340
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2051049",
+                              "name": "Spring Rolls (Large)",
+                              "description": "Crispy veg spring rolls.",
+                              "price": 2440
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "7646154",
+                              "name": "Spring Rolls (Combo)",
+                              "description": "Crispy veg spring rolls.",
+                              "price": 8070
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "name": "Kitchen Street (2)",
+              "cuisines": [
+                "Kitchen"
+              ],
+              "costForTwoMessage": "481 for two",
+              "avgRating": 4.5,
+              "sla": {
+                "deliveryTime": 28
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Starters",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "7447843",
+                              "name": "Stuffed Mushrooms",
+                              "description": "Baked mushrooms with cheese.",
+                              "price": 3470
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "7821975",
+                              "name": "Bruschetta (Large)",
+                              "description": "Toasted bread with tomato & basil.",
+                              "price": 5130
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "8920899",
+                              "name": "Stuffed Mushrooms (Large)",
+                              "description": "Baked mushrooms with cheese.",
+                              "price": 4990
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "8021660",
+                              "name": "Stuffed Mushrooms (With Sides)",
+                              "description": "Baked mushrooms with cheese.",
+                              "price": 8720
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5353643",
+                              "name": "Bruschetta",
+                              "description": "Toasted bread with tomato & basil.",
+                              "price": 7020
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "4619837",
+                              "name": "Bruschetta (Combo)",
+                              "description": "Toasted bread with tomato & basil.",
+                              "price": 8810
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
