@@ -16,6 +16,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "661 for two",
+                      "promoted": true,
                       "cuisines": [
                         "Indian",
                         "Chinese"
@@ -46,6 +47,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "265 for two",
+                      "promoted": true,
                       "cuisines": [
                         "North Indian",
                         "Snacks"
@@ -76,6 +78,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "399 for two",
+                      "promoted": false,
                       "cuisines": [
                         "Healthy Food"
                       ],
@@ -105,6 +108,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "390 for two",
+                      "promoted": false,
                       "cuisines": [
                         "North Indian",
                         "Snacks"
@@ -135,6 +139,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "614 for two",
+                      "promoted": false,
                       "cuisines": [
                         "Indian"
                       ],
@@ -164,6 +169,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "517 for two",
+                      "promoted": false,
                       "cuisines": [
                         "Healthy Food"
                       ],
@@ -193,6 +199,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "242 for two",
+                      "promoted": false,
                       "cuisines": [
                         "Continental"
                       ],
@@ -222,6 +229,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "585 for two",
+                      "promoted": false,
                       "cuisines": [
                         "North Indian",
                         "Snacks"
@@ -252,6 +260,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "530 for two",
+                      "promoted": false,
                       "cuisines": [
                         "Bakery"
                       ],
@@ -281,6 +290,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "440 for two",
+                      "promoted": true,
                       "cuisines": [
                         "Healthy Food"
                       ],
@@ -310,6 +320,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "380 for two",
+                      "promoted": false,
                       "cuisines": [
                         "Indian",
                         "Chinese"
@@ -340,6 +351,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "228 for two",
+                      "promoted": false,
                       "cuisines": [
                         "North Indian",
                         "Snacks"
@@ -370,6 +382,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "459 for two",
+                      "promoted": false,
                       "cuisines": [
                         "Italian"
                       ],
@@ -399,6 +412,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "448 for two",
+                      "promoted": false,
                       "cuisines": [
                         "Italian"
                       ],
@@ -428,6 +442,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "681 for two",
+                      "promoted": false,
                       "cuisines": [
                         "Bakery"
                       ],
@@ -457,6 +472,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "285 for two",
+                      "promoted": true,
                       "cuisines": [
                         "Asian"
                       ],
@@ -486,6 +502,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "485 for two",
+                      "promoted": true,
                       "cuisines": [
                         "Indian"
                       ],
@@ -515,6 +532,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "405 for two",
+                      "promoted": false,
                       "cuisines": [
                         "Continental"
                       ],
@@ -544,6 +562,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "230 for two",
+                      "promoted": false,
                       "cuisines": [
                         "Indian"
                       ],
@@ -573,6 +592,7 @@
                       "locality": "Mock Area",
                       "areaName": "Mock Zone",
                       "costForTwo": "481 for two",
+                      "promoted": false,
                       "cuisines": [
                         "Continental"
                       ],
