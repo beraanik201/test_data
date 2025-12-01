@@ -1,0 +1,174 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "name": "Pizzeria Bianco",
+              "cuisines": [
+                "Pizzeria"
+              ],
+              "costForTwoMessage": "485 for two",
+              "avgRating": 4.8,
+              "sla": {
+                "deliveryTime": 27
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Chef's Specials",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "9779599",
+                              "name": "Woodfire Margherita",
+                              "description": "Classic mozzarella & basil, wood-fired.",
+                              "price": 6190
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3369083",
+                              "name": "Truffle Mushroom Pizza",
+                              "description": "Mushrooms, truffle oil & goat cheese.",
+                              "price": 6430
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1980458",
+                              "name": "Truffle Mushroom Pizza (Combo)",
+                              "description": "Mushrooms, truffle oil & goat cheese.",
+                              "price": 2430
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "7656435",
+                              "name": "Woodfire Margherita (Combo)",
+                              "description": "Classic mozzarella & basil, wood-fired.",
+                              "price": 6560
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "8100722",
+                              "name": "Woodfire Margherita (With Sides)",
+                              "description": "Classic mozzarella & basil, wood-fired.",
+                              "price": 2630
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "6580976",
+                              "name": "Woodfire Margherita (Large)",
+                              "description": "Classic mozzarella & basil, wood-fired.",
+                              "price": 2960
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Classic Pizzas",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "8155562",
+                              "name": "Four Cheese",
+                              "description": "Mozzarella, cheddar, parmesan & gorgonzola.",
+                              "price": 7740
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "7171796",
+                              "name": "Pepperoni (Combo)",
+                              "description": "Classic pepperoni & cheese.",
+                              "price": 7430
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "6583282",
+                              "name": "Pepperoni",
+                              "description": "Classic pepperoni & cheese.",
+                              "price": 1840
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3444952",
+                              "name": "Four Cheese (Combo)",
+                              "description": "Mozzarella, cheddar, parmesan & gorgonzola.",
+                              "price": 8260
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3366412",
+                              "name": "Four Cheese (Large)",
+                              "description": "Mozzarella, cheddar, parmesan & gorgonzola.",
+                              "price": 1640
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "8755067",
+                              "name": "Pepperoni (With Sides)",
+                              "description": "Classic pepperoni & cheese.",
+                              "price": 5730
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

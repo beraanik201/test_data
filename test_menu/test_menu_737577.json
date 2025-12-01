@@ -1,0 +1,104 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "name": "KFC",
+              "cuisines": [
+                "KFC"
+              ],
+              "costForTwoMessage": "517 for two",
+              "avgRating": 4.2,
+              "sla": {
+                "deliveryTime": 42
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Fried Favorites",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1135065",
+                              "name": "Hot & Crispy Wings",
+                              "description": "Spicy battered wings.",
+                              "price": 7320
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2935696",
+                              "name": "Original Fried Chicken (With Sides)",
+                              "description": "Buttermilk marinated & crispy fried.",
+                              "price": 2170
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "8526441",
+                              "name": "Hot & Crispy Wings (Combo)",
+                              "description": "Spicy battered wings.",
+                              "price": 6020
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2651797",
+                              "name": "Original Fried Chicken (Combo)",
+                              "description": "Buttermilk marinated & crispy fried.",
+                              "price": 4310
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "7754198",
+                              "name": "Hot & Crispy Wings (Large)",
+                              "description": "Spicy battered wings.",
+                              "price": 1950
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2643781",
+                              "name": "Original Fried Chicken",
+                              "description": "Buttermilk marinated & crispy fried.",
+                              "price": 6170
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

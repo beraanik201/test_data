@@ -1,0 +1,104 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "name": "Rocker Bros. Meat & Provisions",
+              "cuisines": [
+                "Rocker"
+              ],
+              "costForTwoMessage": "242 for two",
+              "avgRating": 4.5,
+              "sla": {
+                "deliveryTime": 24
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Butcher's Choice",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5685952",
+                              "name": "Dry-Aged Ribeye (With Sides)",
+                              "description": "Premium dry-aged ribeye steak.",
+                              "price": 5830
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "4940686",
+                              "name": "Dry-Aged Ribeye (Combo)",
+                              "description": "Premium dry-aged ribeye steak.",
+                              "price": 5820
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "9516179",
+                              "name": "Dry-Aged Ribeye (Large)",
+                              "description": "Premium dry-aged ribeye steak.",
+                              "price": 1990
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "8972502",
+                              "name": "Wagyu Skirt Steak (Large)",
+                              "description": "Tender wagyu skirt steak.",
+                              "price": 5400
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "9794584",
+                              "name": "Wagyu Skirt Steak",
+                              "description": "Tender wagyu skirt steak.",
+                              "price": 3940
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5064705",
+                              "name": "Wagyu Skirt Steak (With Sides)",
+                              "description": "Tender wagyu skirt steak.",
+                              "price": 2800
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

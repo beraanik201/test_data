@@ -1,0 +1,104 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "name": "Urban Bites",
+              "cuisines": [
+                "Urban"
+              ],
+              "costForTwoMessage": "228 for two",
+              "avgRating": 4.6,
+              "sla": {
+                "deliveryTime": 44
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Favorites",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5549589",
+                              "name": "Cheese Burger",
+                              "description": "Beef patty with melted cheese.",
+                              "price": 1770
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3447619",
+                              "name": "Crispy Fries (Combo)",
+                              "description": "Golden fries with salt.",
+                              "price": 1360
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2711711",
+                              "name": "Crispy Fries (Large)",
+                              "description": "Golden fries with salt.",
+                              "price": 2950
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2224639",
+                              "name": "Crispy Fries (With Sides)",
+                              "description": "Golden fries with salt.",
+                              "price": 8480
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1828944",
+                              "name": "Crispy Fries",
+                              "description": "Golden fries with salt.",
+                              "price": 2970
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "7783251",
+                              "name": "Cheese Burger (Large)",
+                              "description": "Beef patty with melted cheese.",
+                              "price": 6040
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
